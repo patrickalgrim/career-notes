@@ -23,6 +23,8 @@ Global Job Search
    
 - https://jobspresso.co
 
+- https://www.algrim.co/job-descriptions
+
 
 #######################
 Jobs with relocation
