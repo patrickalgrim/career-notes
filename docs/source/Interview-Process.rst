@@ -39,6 +39,8 @@ Questions as a Candidate
 
 - https://kostasbariotis.com/interviewer-vs-interviewee/
 
+- https://www.algrim.co/interview-questions
+
 
 ###########################
 Take-Home Challenges
@@ -66,6 +68,12 @@ Technical Career Growth
 - https://github.com/kamranahmedse/developer-roadmap
 
 - https://blog.alicegoldfuss.com/how-to-get-into-sre/
+
+###########################
+About Algrim.co
+###########################
+
+Patrick Algrim is an experienced executive who has spent a number of years in Silicon Valley hiring and coaching some of the world’s most valuable technology teams. He is a Human Resources expert and is particularly interested in the challenge of recruiting some of the worlds best talent. He was a Microsoft Bizspark winner in 2012. And winner of many Web Design awards from the years 2012-2019.
 
 Doing 1-on-1
 #################
