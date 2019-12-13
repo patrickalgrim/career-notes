@@ -21,6 +21,10 @@ The Basics
    
 - http://www.youthcentral.vic.gov.au/jobs-careers/applying-for-jobs/how-to-write-a-cover-letter
 
+- https://www.algrim.co/702-how-to-include-your-contact-information-on-a-resume-cover-letter
+
+- https://www.algrim.co/866-how-to-address-a-cover-letter-example
+
 
 ################
 Useful Snippets
