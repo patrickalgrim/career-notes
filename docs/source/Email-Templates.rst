@@ -25,6 +25,8 @@ Thank You Emails
    
 - https://www.themuse.com/advice/this-is-the-email-smart-people-send-when-theyre-rejected-for-a-job
 
+- https://www.algrim.co/264-thank-you-email-after-interview
+
 
 ######################
 Follow-Up Emails
@@ -64,6 +66,8 @@ Accept OR Decline a Job Offer
 - https://www.careertoolbelt.com/13-signs-you-should-turn-down-a-job-offer/
 
 - https://content.wisestep.com/how-to-get-a-job-offer-back-after-declining-it-top-tips/
+
+- https://www.algrim.co/347-how-to-accept-a-job-offer
 
 
 ####################################
